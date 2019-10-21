@@ -25,8 +25,8 @@ def array_literal_matrix
   "Don Gately",
   "Joelle van Dyne",
   "Kate Gompert",
-  "Joelle van Dyne",], ["Hal Incandenza",
-  "Lyle",
+  "Pat M.",], ["Gerhard Schtitt",
+  "Hal Incandenza",
   "Gerhard Schtitt",
   "Mario Incandenza",
   "Michael Pemulis"]]
