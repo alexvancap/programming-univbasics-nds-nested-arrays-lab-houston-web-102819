@@ -27,9 +27,9 @@ def array_literal_matrix
   "Kate Gompert",
   "Pat M.",],
  [
+  "Gerhard Schtitt",
   "Hal Incandenza",
   "Lyle",
-  "Gerhard Schtitt",
   "Mario Incandenza",
   "Michael Pemulis"]]
 
