@@ -21,11 +21,11 @@ def assembled_matrix
 end
 
 def array_literal_matrix
-  new_array = [["Don Gately",
+  new_array = [["Bruce Green",
+  "Don Gately",
   "Joelle van Dyne",
-  "Pat M.",
   "Kate Gompert",
-  "Bruce Green"], ["Hal Incandenza",
+  "Joelle van Dyne",], ["Hal Incandenza",
   "Lyle",
   "Gerhard Schtitt",
   "Mario Incandenza",
