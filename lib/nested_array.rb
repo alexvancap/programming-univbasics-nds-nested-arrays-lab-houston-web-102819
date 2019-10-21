@@ -29,6 +29,7 @@ def array_literal_matrix
  [
   "Hal Incandenza",
   "Lyle",
+  "Gerhard Schtitt",
   "Mario Incandenza",
   "Michael Pemulis"]]
 
